@@ -6,7 +6,7 @@
 
 ![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasitpereira&show_icons=true&theme=dark)
 
-### Tecnologias ultilizadas 🖥️
+### Technologies used 🖥️
 
 <div style="display: inline-block;"><br/>
     <img align="center" atl="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -16,6 +16,6 @@
     <img align="center" atl="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <div/><br/>
 
-Tenho 18 anos, atualmente dedico meu foco aos estudos em progrmação no Instituto PROA, e ao mesmo tempo, graduando em Analise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul. Com uma grande paixão por tecnologia, estou constantemente expandindo meus conhecimentos por meio de cursos e especializações. Aqui, você encontrara alguns dos meus projetos.
+I am 18 years old, currently focusing on studying programming at Instituto PROA, and at the same time, graduating in Systems Analysis and Development at Universidade Cruzeiro do Sul. With a great passion for technology, I am constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasitpereira&layout=compact)
