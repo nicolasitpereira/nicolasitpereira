@@ -16,6 +16,6 @@
     <img align="center" atl="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <div/><br/>
 
-I am 18 years old, currently focusing on studying programming at Instituto PROA, and at the same time, graduating in Systems Analysis and Development at Universidade Cruzeiro do Sul. With a great passion for technology, I am constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
+I'm 19 years old and I'm currently studying Systems Analysis and Development at Flamingo University. Passionate about technology, I'm constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasitpereira&layout=compact)
