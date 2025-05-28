@@ -1,11 +1,12 @@
 
 
-### Hi, I'm Nicolas Pereira 👋
+## Hi, I'm Nicolas Pereira 👋
+I'm 19 years old and I'm currently studying Systems Analysis and Development at Flamingo University. Passionate about technology, I'm constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
 
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-pereira-144b7631b/)
 
-![Nicolas GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasitpereira&show_icons=true&theme=dark)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolasitpereira&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasitpereira&layout=compact&bg_color=00000000)
 ### Technologies used 🖥️
 
 <div style="display: inline-block;"><br/>
@@ -16,6 +17,4 @@
     <img align="center" atl="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <div/><br/>
 
-I'm 19 years old and I'm currently studying Systems Analysis and Development at Flamingo University. Passionate about technology, I'm constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasitpereira&layout=compact)
