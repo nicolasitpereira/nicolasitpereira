@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1C4275&height=120&section=header"/>
 
 ## Hi, I'm Nicolas Pereira 👋
-I'm 19 years old and I'm currently studying Systems Analysis and Development at Flamingo University. Passionate about technology, I'm constantly expanding my knowledge through courses and specializations. Here you will find some of my projects.
+I am 20 years old and currently pursuing a degree in Information Technology Management at FATEC Giuliano Cecchettini. Passionate about technology, I am constantly expanding my knowledge through courses, specializations, and projects. Here, you will find some of my projects.
 
 ## Technologies used 🖥️
 
