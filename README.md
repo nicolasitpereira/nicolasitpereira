@@ -30,10 +30,12 @@
 
 Here are some of the projects I've worked on. Feel free to explore my repositories to see more.
 
+- **[Cronômetro](https://github.com/nicolasitpereira/cronometro)** — A stopwatch application developed with Python.
+- **[DetectaPhone](https://github.com/nicolasitpereira/detectaPhone)** — A Python-based project designed to detect drivers using mobile phones while driving.
+- **[CalcNicoTK](https://github.com/nicolasitpereira/CalcNicoTK)** — A graphical calculator built with Python and Tkinter, featuring basic arithmetic operations and a dark interface.
 - **Devance** — A platform concept designed to help people start or transition into tech careers.
 - **React JS Projects** — Hands-on projects exploring React and front-end development.
 - **Flamingo Python** — A Python project focused on practical programming.
-- **CalcNicoTK** — A graphical calculator built with Python and Tkinter.
 
 ### 📫 Let's Connect
 
