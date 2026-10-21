@@ -38,10 +38,10 @@ Here are some of the projects I've worked on. Feel free to explore my repositori
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/nicolas-pereira-144b7631b/](https://www.linkedin.com/in/nicolas-cau%C3%A3-alves-pereira-144b7631b/?isSelfProfile=true)">
+  <a href="https://www.linkedin.com/in/nicolas-cau%C3%A3-alves-pereira-144b7631b/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:nicolas.pereira.it@gmail.com">
+  <a href="nicolas.pereira.it@gmail.com">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email"/>
   </a>
 </p>
